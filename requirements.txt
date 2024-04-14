@@ -1,0 +1,6 @@
+flask
+opencv-python
+easyocr
+autocorrect
+pillow
+pybase64
